@@ -14,5 +14,37 @@
       "countryCode": "IN",
       "region": "Karnataka"
     }
-  }
+  },
+  "profiles": [
+    {
+      "network": "Twitter",
+      "username": "aloisdg",
+      "url": "https://twitter.com/aloisdg"
+    },
+    {
+      "network": "GitHub",
+      "username": "aloisdg",
+      "url": "https://github.com/aloisdg"
+    },
+    {
+      "network": "StackOverflow",
+      "username": "aloisdg",
+      "url": "http://stackoverflow.com/users/1248177/aloisdg"
+    },
+    {
+      "network": "Tumblr",
+      "username": "aloisdg",
+      "url": "http://aloisdg.tumblr.com"
+    },
+    {
+      "network": "LinkedIn",
+      "username": "aloisdg",
+      "url": "http://www.linkedin.com/in/aloisdg"
+    },
+    {
+      "network": "Facebook",
+      "username": "aloisdg",
+      "url": "http://facebook.com/aloidg"
+    }
+  ]
 }
