@@ -1,1 +1,18 @@
-{}
+{
+  "basics": {
+    "name": "Alois de Gouvello",
+    "label": "Programmer",
+    "picture": "https://avatars2.githubusercontent.com/u/3449303?v=3&s=96",
+    "email": "alois@outlook.fr",
+    "phone": "",
+    "website": "http://aloisdg.github.io/",
+    "summary": "Alois hails from Paris. He has earned a degree from Epitech. He likes to create a lot of differents stuffs, mostly with computer.",
+    "location": {
+      "address": "Pranati House, Near MIT, Eshwar Nagar",
+      "postalCode": "576104",
+      "city": "Manipal",
+      "countryCode": "IN",
+      "region": "Karnataka"
+    }
+  }
+}
