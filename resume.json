@@ -45,6 +45,16 @@
       "network": "Facebook",
       "username": "aloisdg",
       "url": "http://facebook.com/aloidg"
+    },
+    {
+      "network": "Youtube",
+      "username": "alois de gouvello",
+      "url": "https://www.youtube.com/channel/UCx4ozk2fu3HXbaklogHb0ng"
+    },
+    {
+      "network": "Reddit",
+      "username": "aloisdg",
+      "url": "https://reddit.com/u/aloisdg"
     }
   ]
 }
