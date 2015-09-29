@@ -6,55 +6,144 @@
     "email": "alois@outlook.fr",
     "phone": "",
     "website": "http://aloisdg.github.io/",
-    "summary": "Alois hails from Paris. He has earned a degree from Epitech. He likes to create a lot of differents stuffs, mostly with computer.",
+    "summary": "Alois hails from Paris. He has earned a degree from Epitech. He likes to create a lot of differents stuffs, mostly with a computer.",
     "location": {
       "address": "Pranati House, Near MIT, Eshwar Nagar",
       "postalCode": "576104",
       "city": "Manipal",
       "countryCode": "IN",
       "region": "Karnataka"
-    }
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "aloisdg",
+        "url": "https://twitter.com/aloisdg"
+      },
+      {
+        "network": "GitHub",
+        "username": "aloisdg",
+        "url": "https://github.com/aloisdg"
+      },
+      {
+        "network": "StackOverflow",
+        "username": "aloisdg",
+        "url": "http://stackoverflow.com/users/1248177/aloisdg"
+      },
+      {
+        "network": "Tumblr",
+        "username": "aloisdg",
+        "url": "http://aloisdg.tumblr.com"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "aloisdg",
+        "url": "http://www.linkedin.com/in/aloisdg"
+      },
+      {
+        "network": "Facebook",
+        "username": "aloisdg",
+        "url": "http://facebook.com/aloidg"
+      },
+      {
+        "network": "Youtube",
+        "username": "alois de gouvello",
+        "url": "https://www.youtube.com/channel/UCx4ozk2fu3HXbaklogHb0ng"
+      },
+      {
+        "network": "Reddit",
+        "username": "aloisdg",
+        "url": "https://reddit.com/u/aloisdg"
+      }
+    ]
   },
-  "profiles": [
+  "work": [
     {
-      "network": "Twitter",
-      "username": "aloisdg",
-      "url": "https://twitter.com/aloisdg"
+      "company": "ValorConseil SAS",
+      "position": "Web Developer",
+      "website": "http://www.valorconseil.fr/",
+      "startDate": "2011-11-01",
+      "endDate": "2011-12-25",
+      "summary": "Création et réalisation d'une carte de voeux électronique animée. Les technologies utilisées sont HTML5/CSS3 et JavaScript (jQuery).",
+      "highlights": [
+        "Create a design who follow entreprise's guidelines.",
+        "Respect an absolute deadline.",
+        "Create a page responsive."
+      ]
     },
     {
-      "network": "GitHub",
-      "username": "aloisdg",
-      "url": "https://github.com/aloisdg"
+      "company": "WindowsPhoneFR.com",
+      "position": "Writer/Reporter",
+      "website": "http://www.windowsphonefr.com/",
+      "startDate": "2011-01-01",
+      "endDate": "2012-12-25",
+      "summary": "En tant que rédacteurs nous partageons les informations autour de Windows Phone. Je suivais une cadence d'un article par semaine. La majorité des articles est issue de traduction et de recoupe d'information. Un échange avec la communauté et une veille permanente étaient nécessaire..",
+      "highlights": [
+        "Works with good writing styles.",
+        "Handles community feedbacks, problems and comments."
+      ]
     },
     {
-      "network": "StackOverflow",
-      "username": "aloisdg",
-      "url": "http://stackoverflow.com/users/1248177/aloisdg"
+      "company": "La Compagnie du Catogan",
+      "position": "Web Developer",
+      "website": "http://catogan.com/",
+      "startDate": "2012-03-01",
+      "endDate": "2012-04-30",
+      "summary": "Développement du site internet à partir d'une base réalisée en flash. Création de domain. Mise en prod.",
+      "highlights": [
+        ""
+      ]
     },
     {
-      "network": "Tumblr",
-      "username": "aloisdg",
-      "url": "http://aloisdg.tumblr.com"
+      "company": "UCAYA",
+      "position": "Developer",
+      "website": "http://ucaya.com/",
+      "startDate": "2012-03-01",
+      "endDate": "2012-04-30",
+      "summary": "Développement du site internet à partir d'une base réalisée en flash. Création de domain. Mise en prod.",
+      "highlights": [
+        ""
+      ]
     },
     {
-      "network": "LinkedIn",
-      "username": "aloisdg",
-      "url": "http://www.linkedin.com/in/aloisdg"
+      "company": "Microsoft",
+      "position": "Student Partner",
+      "website": "http://www.microsoft.com/fr-fr",
+      "startDate": "2012-09-01",
+      "endDate": "2013-06-30",
+      "summary": "En tant que Microsoft Student Partners (MSP), j'ai partagé ma passion pour les nouvelles technologies et les produits Microsoft au sein de mon établissement (Epitech Paris).",
+      "highlights": [
+        ""
+      ]
     },
     {
-      "network": "Facebook",
-      "username": "aloisdg",
-      "url": "http://facebook.com/aloidg"
+      "company": "Idigao",
+      "position": "Developer",
+      "website": "http://www.idigao.com/",
+      "startDate": "2014-12-01",
+      "endDate": "2015-02-28",
+      "summary": "",
+      "highlights": [
+        "Manipulation d'une base SQL Server",
+        "Creation d'une API MVC",
+        "Creation d'une librairie (PCL) pour accéder à l'API",
+        "Creation d'un client Windows Phone"
+      ]
     },
     {
-      "network": "Youtube",
-      "username": "alois de gouvello",
-      "url": "https://www.youtube.com/channel/UCx4ozk2fu3HXbaklogHb0ng"
-    },
-    {
-      "network": "Reddit",
-      "username": "aloisdg",
-      "url": "https://reddit.com/u/aloisdg"
+      "company": "idigao",
+      "position": "Analyst/Developer",
+      "website": "http://www.idigao.com/",
+      "startDate": "2015-04-01",
+      "endDate": "2015-07-15",
+      "summary": "",
+      "highlights": [
+        "Amélioration d'un outil de suivi interne utilisant Excel en C#/WPF",
+        "Développement d'un charte graphique pour un produit interne",
+        "Développement d'un backoffice MVC4 et d'une API",
+        "Création de maquette pour un produit interne",
+        "Développement d'une Webapp utilisant Cordova, Ionic, AngularJS et TypeScript."
+      ]
     }
   ]
 }
