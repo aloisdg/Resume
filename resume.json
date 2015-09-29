@@ -145,5 +145,46 @@
         "Développement d'une Webapp utilisant Cordova, Ionic, AngularJS et TypeScript."
       ]
     }
+  ],
+  "education": [
+    {
+      "institution": "Lycée Clément Ader",
+      "area": "Général et Technologique",
+      "studyType": "Bac",
+      "startDate": "2007-09-01",
+      "endDate": "2011-06-25",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "MIT - Manipal Institute of Technology",
+      "area": "Computer Applications",
+      "studyType": "Master",
+      "startDate": "2015-08-01",
+      "endDate": "2016-05-17",
+      "gpa": "",
+      "courses": [
+        "Advance Data Structure",
+        "Data Warehousing and Data Mining",
+        "ASP",
+        "Quality Assurance & Testing",
+        "Media Communication"
+      ]
+    },
+    {
+      "institution": "EPITECH - European Institute of Technology",
+      "area": "Computer Engineering",
+      "studyType": "Bac",
+      "startDate": "2011-09-01",
+      "endDate": "2017-06-25",
+      "gpa": "",
+      "courses": [
+        "Programming Learning",
+        "OOP Learning",
+        "Team Management",
+        "Project Management",
+        "Development in C, C++, Shell, Python, C#"        
+      ]
+    }
   ]
 }
