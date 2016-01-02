@@ -154,7 +154,11 @@
       "startDate": "2007-09-01",
       "endDate": "2011-06-25",
       "gpa": "",
-      "courses": ["Mathématiques", "Physique/Chimie", "Sciences de l'Ingénieur"]
+      "courses": [
+        "Mathématiques",
+        "Physique/Chimie",
+        "Sciences de l'Ingénieur"
+      ]
     },
     {
       "institution": "MIT - Manipal Institute of Technology",
@@ -183,7 +187,7 @@
         "OOP Learning",
         "Team Management",
         "Project Management",
-        "Development in C, C++, Shell, Python, C#"        
+        "Development in C, C++, Shell, Python, C#"
       ]
     },
     {
@@ -196,7 +200,123 @@
       "courses": [
         "Team Management",
         "Project Management",
-        "Development in C#"        
+        "Development in C#"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "JSONResume",
+      "position": "Contributor and Developer",
+      "website": "http://jsonresume.org/",
+      "startDate": "2015-08-24",
+      "endDate": "",
+      "summary": "The open source initiative to create a JSON-based standard for resumes. For developers, by developers.",
+      "highlights": [
+        "Released 'SharpResume', a C# PCL for JSONResume",
+        "Involved in discussions and issues around the spec on resume-schema"
+      ]
+    },
+    {
+      "organization": "Humanizr",
+      "position": "Developer",
+      "website": "http://humanizr.net/",
+      "startDate": "2015-09-13",
+      "endDate": "2015-10-26",
+      "summary": "Humanizer meets all your .NET needs for manipulating and displaying strings, enums, dates, times, timespans, numbers and quantities.",
+      "highlights": [
+        "Add support of metric numeral expression",
+        "Add unitary tests to valid the feature"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Digital Compression Pioneer Award",
+      "date": "2014-11-01",
+      "awarder": "Techcrunch"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development Frontend",
+      "level": "early",
+      "keywords": [
+        "HTML",
+        "HAML",
+        "CSS",
+        "Sass",
+        "JavaScript",
+        "JQuery",
+        "TypeScript"
+      ]
+    },
+    {
+      "name": "Web Development Backend",
+      "level": "early",
+      "keywords": [
+        "ASP.NET",
+        "Razor",
+        "ADO.NET",
+        "SQL Server",
+        "Repository Pattern",
+        "MVC Pattern",
+        "C#.NET"
+      ]
+    },
+    {
+      "name": "Unix Development",
+      "level": "competent",
+      "keywords": [
+        "Bash",
+        "C",
+        "C++",
+        "Unix",
+        "Python",
+        "CLI",
+        "Unix API"
+      ]
+    },
+    {
+      "name": "Windows Development",
+      "level": "advanced",
+      "keywords": [
+        "C#.NET",
+        "XAML",
+        "UWP",
+        "WPF",
+        "Windows API",
+        "UX/UI",
+        "Kaxaml",
+        "Blend",
+        "Design"
+      ]
+    },
+    {
+      "name": "Windows Phone Development",
+      "level": "advanced",
+      "keywords": [
+        "C#.NET",
+        "XAML",
+        "Windows API",
+        "UX/UI",
+        "Kaxaml",
+        "Blend",
+        "Design"
+      ]
+    },
+    {
+      "name": "C#.NET",
+      "level": "advanced",
+      "keywords": [
+        ".NET",
+        "Visual Studio",
+        "LINQ",
+        "Nunit",
+        "Xunit",
+        "PCL",
+        "OOP",
+        "async"
       ]
     }
   ],
