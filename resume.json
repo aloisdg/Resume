@@ -89,7 +89,7 @@
       "website": "http://catogan.com/",
       "startDate": "2012-03-01",
       "endDate": "2012-04-30",
-      "summary": "Développement du site internet à partir d'une base réalisée en flash. Création de domain. Mise en prod.",
+      "summary": "Développement du site internet à partir d'une base réalisée en flash. Création de domain. Mise en production.",
       "highlights": [
         ""
       ]
@@ -100,7 +100,7 @@
       "website": "http://ucaya.com/",
       "startDate": "2012-03-01",
       "endDate": "2012-04-30",
-      "summary": "Développement du site internet à partir d'une base réalisée en flash. Création de domain. Mise en prod.",
+      "summary": "Développement du site internet à partir d'une base réalisée en flash. Création de domain. Mise en production.",
       "highlights": [
         ""
       ]
@@ -138,8 +138,8 @@
       "endDate": "2015-07-15",
       "summary": "",
       "highlights": [
-        "Amélioration d'un outil de suivi interne utilisant Excel en C#/WPF",
-        "Développement d'un charte graphique pour un produit interne",
+        "Amélioration d'un outil de suivi interne utilisant Excel en C#.NET/WPF",
+        "Développement d'une charte graphique pour un produit interne",
         "Développement d'un backoffice MVC4 et d'une API",
         "Création de maquette pour un produit interne",
         "Développement d'une Webapp utilisant Cordova, Ionic, AngularJS et TypeScript."
@@ -150,11 +150,11 @@
     {
       "institution": "Lycée Clément Ader",
       "area": "Général et Technologique",
-      "studyType": "Bac",
+      "studyType": "Baccalauréat",
       "startDate": "2007-09-01",
       "endDate": "2011-06-25",
       "gpa": "",
-      "courses": []
+      "courses": ["Mathématiques", "Physique/Chimie", "Sciences de l'Ingénieur"]
     },
     {
       "institution": "MIT - Manipal Institute of Technology",
@@ -174,7 +174,7 @@
     {
       "institution": "EPITECH - European Institute of Technology",
       "area": "Computer Engineering",
-      "studyType": "Bac",
+      "studyType": "Bachelor",
       "startDate": "2011-09-01",
       "endDate": "2017-06-25",
       "gpa": "",
@@ -184,6 +184,19 @@
         "Team Management",
         "Project Management",
         "Development in C, C++, Shell, Python, C#"        
+      ]
+    },
+    {
+      "institution": "EPITECH - European Institute of Technology",
+      "area": "Computer Engineering",
+      "studyType": "Master",
+      "startDate": "2011-09-01",
+      "endDate": "2017-06-25",
+      "gpa": "",
+      "courses": [
+        "Team Management",
+        "Project Management",
+        "Development in C#"        
       ]
     }
   ],
