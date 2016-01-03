@@ -336,17 +336,23 @@
   ],
   "interests": [
     {
-      "name": "Wildlife",
+      "name": "Chess",
       "keywords": [
-        "Ferrets",
-        "Unicorns"
+        "Strategy",
+        "Thinking out of the box",
+        "Anticipation",
+        "Problem solving"
       ]
     }
   ],
   "references": [
     {
-      "name": "Erlich Bachman",
-      "reference": "It is my pleasure to recommend Richard, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
+      "name": "Romuald Boulanger",
+      "reference": "Aloïs a su s'intégrer rapidement à l'équipe. Beaucoup d'envie à travailler dans le domaine de l'informatique. Encore plein de compétences à acquérir."
+    },
+    {
+      "name": "Gil Pla",
+      "reference": "Alois c'est très rapidement intégré à l'équipe, il fait preuve d'une réelle implication dans les projets et dans la vie de l'équipe. Nous apprécions ses qualités techniques, celles qu'il connait et celles qu'il acquiert très rapidement ainsi que ses qualités humaines. Nous apprécions également sa capacité à être force de proposition technique et sa capacité a argumenter ces choix."
     }
   ]
 }
