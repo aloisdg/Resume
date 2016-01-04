@@ -66,9 +66,9 @@
       "endDate": "2011-12-25",
       "summary": "Création et réalisation d'une carte de voeux électronique animée. Les technologies utilisées sont HTML5/CSS3 et JavaScript (jQuery).",
       "highlights": [
-        "Create a design who follow entreprise's guidelines.",
-        "Respect an absolute deadline.",
-        "Create a page responsive."
+        "Create a design who follow entreprise's guidelines",
+        "Respect an absolute deadline",
+        "Create a responsive page responsive"
       ]
     },
     {
@@ -77,10 +77,10 @@
       "website": "http://www.windowsphonefr.com/",
       "startDate": "2011-01-01",
       "endDate": "2012-12-25",
-      "summary": "En tant que rédacteurs nous partageons les informations autour de Windows Phone. Je suivais une cadence d'un article par semaine. La majorité des articles est issue de traduction et de recoupe d'information. Un échange avec la communauté et une veille permanente étaient nécessaire..",
+      "summary": "En tant que rédacteurs nous partageons les informations autour de Windows Phone. Je suivais une cadence d'un article par semaine. La majorité des articles est issue de traduction et de recoupe d'information. Un échange avec la communauté et une veille permanente étaient nécessaire.",
       "highlights": [
-        "Works with good writing styles.",
-        "Handles community feedbacks, problems and comments."
+        "Work with good writing styles",
+        "Handle community feedbacks, problems and comments"
       ]
     },
     {
@@ -91,7 +91,9 @@
       "endDate": "2012-04-30",
       "summary": "Développement du site internet à partir d'une base réalisée en flash. Création de domain. Mise en production.",
       "highlights": [
-        ""
+        "Port a flash-based website to HTML5",
+        "Subscribe to a hoster and manage the server",
+        "Release in production the website"
       ]
     },
     {
@@ -124,10 +126,10 @@
       "endDate": "2015-02-28",
       "summary": "",
       "highlights": [
-        "Manipulation d'une base SQL Server",
-        "Creation d'une API MVC",
-        "Creation d'une librairie (PCL) pour accéder à l'API",
-        "Creation d'un client Windows Phone"
+        "Manage data on the server with SQL Server",
+        "Development of a ASP.NET MVC WebApi",
+        "Development of a Portable Class Library to play with the API",
+        "Development of a Windows Phone application"
       ]
     },
     {
@@ -139,10 +141,10 @@
       "summary": "",
       "highlights": [
         "Amélioration d'un outil de suivi interne utilisant Excel en C#.NET/WPF",
-        "Développement d'une charte graphique pour un produit interne",
+        "Create a graphic charter for an intern project",
         "Développement d'un backoffice MVC4 et d'une API",
         "Création de maquette pour un produit interne",
-        "Développement d'une Webapp utilisant Cordova, Ionic, AngularJS et TypeScript."
+        "Développement d'une Webapp utilisant Cordova, Ionic, Sassm AngularJS et TypeScript."
       ]
     }
   ],
