@@ -232,13 +232,6 @@
       ]
     }
   ],
-  "awards": [
-    {
-      "title": "Digital Compression Pioneer Award",
-      "date": "2014-11-01",
-      "awarder": "Techcrunch"
-    }
-  ],
   "skills": [
     {
       "name": "Web Development Frontend",
@@ -263,7 +256,9 @@
         "SQL Server",
         "Repository Pattern",
         "MVC Pattern",
-        "C#.NET"
+        "C#.NET",
+        "Node.js",
+        "TypeScript"
       ]
     },
     {
@@ -345,6 +340,19 @@
         "Anticipation",
         "Problem solving"
       ]
+    },
+    {
+      "name": "Tabletop RPG",
+      "keywords": [
+        "Improvisation",
+        "Argumentation",
+        "Thinking out of the box",
+        "Problem solving",
+        "Procedural generation",
+        "Team management",
+        "Time management"
+        ]
+    }
     }
   ],
   "references": [
