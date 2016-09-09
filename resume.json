@@ -26,7 +26,7 @@
         "url": "https://github.com/aloisdg"
       },
       {
-        "network": "StackOverflow",
+        "network": "Stack-Overflow",
         "username": "aloisdg",
         "url": "http://stackoverflow.com/users/1248177/aloisdg"
       },
@@ -64,11 +64,11 @@
       "website": "http://www.valorconseil.fr/",
       "startDate": "2011-11-01",
       "endDate": "2011-12-25",
-      "summary": "Création et réalisation d'une carte de voeux électronique animée. Les technologies utilisées sont HTML5/CSS3 et JavaScript (jQuery).",
+      "summary": "The mission was to design and development an animate greeting card for Christmas and New Year. I use HTML5/CSS3 and JavaScript with JQuery.",
       "highlights": [
         "Create a design who follow entreprise's guidelines",
         "Respect an absolute deadline",
-        "Create a responsive page responsive"
+        "Create a responsive page"
       ]
     },
     {
@@ -77,7 +77,7 @@
       "website": "http://www.windowsphonefr.com/",
       "startDate": "2011-01-01",
       "endDate": "2012-12-25",
-      "summary": "En tant que rédacteurs nous partageons les informations autour de Windows Phone. Je suivais une cadence d'un article par semaine. La majorité des articles est issue de traduction et de recoupe d'information. Un échange avec la communauté et une veille permanente étaient nécessaire.",
+      "summary": "As a writer, I share, argue and write a lot about Windows Phone's news. I had to write one article per week. Most of them was made threw translation and information merging.",
       "highlights": [
         "Work with good writing styles",
         "Handle community feedbacks, problems and comments"
@@ -89,7 +89,7 @@
       "website": "http://catogan.com/",
       "startDate": "2012-03-01",
       "endDate": "2012-04-30",
-      "summary": "Développement du site internet à partir d'une base réalisée en flash. Création de domain. Mise en production.",
+      "summary": "I had to port an old website from Flash to HTML5/CSS3. I handle the registration of the dns and the shipping.",
       "highlights": [
         "Port a flash-based website to HTML5",
         "Subscribe to a hoster and manage the server",
@@ -102,9 +102,10 @@
       "website": "http://ucaya.com/",
       "startDate": "2012-03-01",
       "endDate": "2012-04-30",
-      "summary": "Développement du site internet à partir d'une base réalisée en flash. Création de domain. Mise en production.",
+      "summary": "First official internship. I work on local softwares and apps. I use ASPx.NET MVC with Razor and WinJS for Windows Store Apps.",
       "highlights": [
-        ""
+        "Discover a backend technology",
+        "Creation of a lot of application for Windows 8"
       ]
     },
     {
@@ -113,9 +114,10 @@
       "website": "http://www.microsoft.com/fr-fr",
       "startDate": "2012-09-01",
       "endDate": "2013-06-30",
-      "summary": "En tant que Microsoft Student Partners (MSP), j'ai partagé ma passion pour les nouvelles technologies et les produits Microsoft au sein de mon établissement (Epitech Paris).",
+      "summary": "As a Microsoft Student Partners (MSP), I share my passion around new technology and Microsoft's products with people from my school and more.",
       "highlights": [
-        ""
+        "Assist on .NET ecosystem",
+        "Present and share informations about Windows, Windows Phone and more"
       ]
     },
     {
@@ -126,14 +128,14 @@
       "endDate": "2015-02-28",
       "summary": "",
       "highlights": [
-        "Manage data on the server with SQL Server",
+        "Manage data with SQL Server",
         "Development of a ASP.NET MVC WebApi",
         "Development of a Portable Class Library to play with the API",
         "Development of a Windows Phone application"
       ]
     },
     {
-      "company": "idigao",
+      "company": "Idigao",
       "position": "Analyst/Developer",
       "website": "http://www.idigao.com/",
       "startDate": "2015-04-01",
@@ -144,7 +146,7 @@
         "Create a graphic charter for an intern project",
         "Développement d'un backoffice MVC4 et d'une API",
         "Création de maquette pour un produit interne",
-        "Développement d'une Webapp utilisant Cordova, Ionic, Sassm AngularJS et TypeScript."
+        "Développement d'une Webapp utilisant Cordova, Ionic, Sass, AngularJS et TypeScript."
       ]
     }
   ],
@@ -212,7 +214,7 @@
       "position": "Contributor and Developer",
       "website": "http://jsonresume.org/",
       "startDate": "2015-08-24",
-      "endDate": "",
+      "endDate": "2060-12-22",
       "summary": "The open source initiative to create a JSON-based standard for resumes. For developers, by developers.",
       "highlights": [
         "Released 'SharpResume', a C# PCL for JSONResume",
@@ -250,7 +252,7 @@
       "name": "Web Development Backend",
       "level": "early",
       "keywords": [
-        "ASP.NET",
+        "ASP.NET MVC",
         "Razor",
         "ADO.NET",
         "SQL Server",
@@ -352,7 +354,6 @@
         "Team management",
         "Time management"
         ]
-    }
     }
   ],
   "references": [
