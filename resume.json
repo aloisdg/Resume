@@ -16,11 +16,6 @@
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "aloisdg",
-        "url": "https://twitter.com/aloisdg"
-      },
-      {
         "network": "GitHub",
         "username": "aloisdg",
         "url": "https://github.com/aloisdg"
@@ -31,19 +26,9 @@
         "url": "http://stackoverflow.com/users/1248177/aloisdg"
       },
       {
-        "network": "Tumblr",
-        "username": "aloisdg",
-        "url": "http://aloisdg.tumblr.com"
-      },
-      {
         "network": "LinkedIn",
         "username": "aloisdg",
         "url": "http://www.linkedin.com/in/aloisdg"
-      },
-      {
-        "network": "Facebook",
-        "username": "aloisdg",
-        "url": "http://facebook.com/aloidg"
       },
       {
         "network": "Youtube",
@@ -148,6 +133,23 @@
         "Création de maquette pour un produit interne",
         "Développement d'une Webapp utilisant Cordova, Ionic, Sass, AngularJS et TypeScript."
       ]
+    },
+    {
+      "company": "CACIB",
+      "position": "Software Developer Fullstack DevOps",
+      "website": "https://www.linkedin.com/company/credit-agricole-cib/",
+      "startDate": "2016-09-19",
+      "endDate": "2018-09-19",
+      "summary": "",
+      "highlights": [
+        "Development C#6, ASP.NET CORE, MVC, HTML5, CSS3, Bootstrap 4, JavaScript, Typescript, SQL Server",
+        "Architecture API REST",
+        "Angular 6 (Conception, Design, development)",
+        "UI Tests (Selenium)",
+        "TFS (TFVC then GIT)",
+        "CI/CD (TFS Build + Octopus)",
+        "Agile Method (Kanban, Speed Boat, Poker planning, Fist of Five Voting) "
+      ]
     }
   ],
   "education": [
@@ -242,7 +244,7 @@
         "HTML",
         "HAML",
         "CSS",
-        "Sass",
+        "Scss",
         "JavaScript",
         "JQuery",
         "TypeScript"
@@ -311,8 +313,8 @@
         ".NET",
         "Visual Studio",
         "LINQ",
-        "Nunit",
-        "Xunit",
+        "NUnit",
+        "xUnit",
         "PCL",
         "OOP",
         "async"
@@ -330,6 +332,10 @@
     },
     {
       "language": "German",
+      "fluency": "Beginner"
+    },
+    {
+      "language": "Esperanto",
       "fluency": "Beginner"
     }
   ],
@@ -357,10 +363,6 @@
     }
   ],
   "references": [
-    {
-      "name": "Romuald Boulanger",
-      "reference": "Aloïs a su s'intégrer rapidement à l'équipe. Beaucoup d'envie à travailler dans le domaine de l'informatique. Encore plein de compétences à acquérir."
-    },
     {
       "name": "Gil Pla",
       "reference": "Alois c'est très rapidement intégré à l'équipe, il fait preuve d'une réelle implication dans les projets et dans la vie de l'équipe. Nous apprécions ses qualités techniques, celles qu'il connait et celles qu'il acquiert très rapidement ainsi que ses qualités humaines. Nous apprécions également sa capacité à être force de proposition technique et sa capacité a argumenter ces choix."
